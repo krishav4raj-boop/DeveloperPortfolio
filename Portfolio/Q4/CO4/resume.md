@@ -1,59 +1,42 @@
-# [YOUR FULL NAME]
+# KRISHAV RAJ
 
-[YOUR CITY, STATE / COUNTRY] | [YOUR PHONE] | [YOUR EMAIL]  
-GitHub: [YOUR GITHUB URL] | LinkedIn: [YOUR LINKEDIN URL]
-
----
-
-## Professional Summary
-
-Motivated Computer Science / Engineering student building foundational skills in Linux system administration, Bash shell scripting, Python programming, REST API integration, and Git/GitHub version control. Seeking beginner-level software development or DevOps learning opportunities to apply clean coding, automation, and problem-solving practices.
-
----
-
-## Technical Skills
-
-- **Programming Languages:** Python, Bash / Shell Scripting `[ADD OTHER LANGUAGES YOU KNOW, e.g., C, Java, SQL]`
-- **Operating Systems:** Linux (Ubuntu / WSL), Windows
-- **Version Control & Collaboration:** Git, GitHub, Markdown Documentation
-- **Scripting & Automation:** Bash functions, conditional validation, file/backup utilities, CLI tools
-- **APIs & Data Formats:** HTTP `GET` requests, REST API basics, JSON parsing, error/status handling
-- **Development Practices:** Unit testing basics, debugging, structured project documentation
-
----
-
-## Projects
-
-### DeveloperPortfolio — Beginner Developer Ecosystem Capstone
-*Technologies: Linux, Bash, Python, REST APIs, Git, GitHub, Markdown*
-- Documented 23 foundational Linux commands and built safe system-inspection scripts (`commands.sh`).
-- Developed modular Bash automation scripts (`system_info.sh`, `backup.sh`, `file_report.sh`, `menu.sh`) featuring argument validation, loops, functions, and exit-code handling.
-- Built a Python REST API client (`api_client.py`) using the standard library (`urllib`, `json`) with HTTP status checks, exception handling, JSON persistence, and data aggregation.
-- Organized academic capstone documentation, learning roadmap, and evidence tracking in a structured GitHub repository.
-
-### [YOUR REAL PROJECT 2 TITLE — OR REMOVE IF NONE YET]
-*Technologies: [TECHNOLOGIES USED]*
-- [Describe what you built and the problem it solved in 1–2 concise bullet points.]
-- [Add any measurable or technical outcome you genuinely achieved.]
+9135005061 | krishav4raj@gmail.com | Bokaro, Jharkhand  
+LinkedIn: https://www.linkedin.com/in/krishav-raj-3a75b3431 | GitHub: https://github.com/krishav4raj-boop
 
 ---
 
 ## Education
 
-**[YOUR DEGREE]** — [YOUR COLLEGE]  
-Expected Graduation: [YOUR EXPECTED GRADUATION YEAR]  
-Relevant Coursework: `[ADD RELEVANT COURSES, e.g., Operating Systems, Programming in Python, Computer Networks]`
+**B.Tech in Computer Science and Engineering (AI & ML)** | K.R. Mangalam University, Sohna, Gurugram | Expected: May 2030  
+Relevant Coursework: Linux Fundamentals, Shell Scripting, Python Programming, Git & Version Control, REST API Basics
 
 ---
 
-## Certifications
+## Technical Skills
 
-- `[YOUR CERTIFICATION 1 — e.g., Course Name, Issuing Organization, Year — or write "In Progress" / remove if none]`
-- `[YOUR CERTIFICATION 2 — optional]`
+- **Languages:** Python (Beginner), Bash / Shell Scripting
+- **Tools:** Git, GitHub, GitHub CLI, VS Code, Linux Terminal (Git Bash)
+- **Concepts:** File Systems, Process Management, REST APIs, JSON Processing, Unit Testing, Markdown
 
 ---
 
-## Achievements & Extracurriculars
+## Projects
 
-- `[YOUR ACHIEVEMENT 1 — e.g., Hackathon participation, coding club, academic award — or remove if none]`
-- `[YOUR ACHIEVEMENT 2 — optional]`
+### DeveloperPortfolio | Linux, Bash, Python, REST APIs, Git, Markdown — November 2026
+- Documented 23 essential Linux administration commands and created a non-destructive system diagnostics script.
+- Automated system reporting, timestamped directory backups, and file analysis in Bash with input validation and exit codes.
+- Implemented a standard-library Python REST API client to fetch, validate, summarize, and persist JSON user records.
+- GitHub: https://github.com/krishav4raj-boop/DeveloperPortfolio
+
+### Productivity Management System | Python, Matplotlib, JSON, Unit Testing, Git — November 2026
+- Developed a modular CLI task manager supporting CRUD workflows, priority filtering, overdue detection, and JSON persistence.
+- Engineered an analytics module computing completion rates, effort efficiency, and productivity scores across categories.
+- Generated status, workload, and daily trend charts using Matplotlib and verified all 7 automated unit test cases.
+- GitHub: https://github.com/krishav4raj-boop/productivity-management-system
+
+---
+
+## Certifications & Achievements
+
+- Completed ZoSIMA Beginner Developer Ecosystem Capstone covering Linux, Bash automation, REST APIs, and GitHub — November 2026
+- Published two documented, open-source Python and DevOps repositories on GitHub — November 2026
