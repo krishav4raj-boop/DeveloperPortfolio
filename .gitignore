@@ -1,0 +1,22 @@
+# Byte-compiled / Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Temporary backup outputs generated while testing backup.sh
+ShellScripts/Q2/CO2/backups/
+backups/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
